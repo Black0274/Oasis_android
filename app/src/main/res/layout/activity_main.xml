@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/android_gradient_list"
+    android:id="@+id/root_layout">
+
+
+   <TextView
+       android:id="@+id/mainText"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       android:text="Нажмите и удерживайте \n кнопку для записи"
+       android:textAppearance="@style/TextAppearance.AppCompat.Large"
+       android:textColor="#ffffff"
+       app:layout_constraintBottom_toTopOf="parent"
+       app:layout_constraintLeft_toLeftOf="parent"
+       app:layout_constraintRight_toRightOf="parent"
+       app:layout_constraintTop_toTopOf="parent"
+       app:layout_constraintVertical_bias="0.217" />
+
+
+    <ImageView
+        android:id="@+id/recordButton"
+        android:layout_width="150dp"
+        android:layout_height="156dp"
+        android:layout_marginBottom="138dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="217dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_microphone2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/signOut"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginStart="296dp"
+        android:alpha="0.7"
+        android:background="@null"
+        android:onClick="OnClickSignOut"
+        android:text="выход"
+        android:textColor="#ffffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>
