@@ -1,0 +1,67 @@
+-injars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\libs\converter-gson-2.1.0.jar'(**.class)
+-injars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\libs\gson-2.7.jar'(**.class)
+-injars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\libs\okhttp-3.3.0.jar'(**.class)
+-injars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\libs\okio-1.8.0.jar'(**.class)
+-injars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\libs\retrofit-2.3.0.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1ac2f9a568bc1b9666d5f1fc8815a23d\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7a7548a4ab927024e1faaa92fbfed15c\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar'(**.class)
+-injars 'C:\Users\Dimas\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\jars\classes.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar'(**.class)
+-injars 'C:\Users\Dimas\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar'(**.class)
+-injars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\build\intermediates\classes\debug'(**.class)
+-outjars 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Dimas\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:24
+-keep class com.example.dimas.recorder_6.AppServer {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

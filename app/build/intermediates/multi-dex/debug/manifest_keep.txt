@@ -1,0 +1,3 @@
+# Referenced at C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:24
+-keep class com.example.dimas.recorder_6.AppServer { <init>(...); }
+

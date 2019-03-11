@@ -1,0 +1,4 @@
+#Mon Mar 11 20:08:52 MSK 2019
+base.0=C\:\\Users\\Dimas\\AndroidStudioProjects\\Recorder6\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

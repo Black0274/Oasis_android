@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Mar 11 20:27:15 MSK 2019
+1.base=C\:\\Users\\Dimas\\AndroidStudioProjects\\Recorder6\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Dimas\\AndroidStudioProjects\\Recorder6\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+1.path=classes2.dex

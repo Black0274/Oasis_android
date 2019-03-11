@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1ac2f9a568bc1b9666d5f1fc8815a23d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7a7548a4ab927024e1faaa92fbfed15c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:5:5-71
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:9:5-71
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:11:5-80
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:10:5-81
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:16:22-69
+application
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:18:5-39:19
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:13:5-17:19
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7a7548a4ab927024e1faaa92fbfed15c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7a7548a4ab927024e1faaa92fbfed15c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:19:9-35
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:24:9-34
+activity#com.example.dimas.recorder_6.MainActivity
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:theme
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.dimas.recorder_6.LoginActivity
+ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:35:9-38:46
+	android:label
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:37:13-57
+	android:theme
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml:36:13-42
+uses-sdk
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kailashdabhi:om-recorder:1.1.5] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\om-recorder-1.1.5.aar\24b6db3e2eba37aeb147147321ca030e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1ac2f9a568bc1b9666d5f1fc8815a23d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\1ac2f9a568bc1b9666d5f1fc8815a23d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7a7548a4ab927024e1faaa92fbfed15c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7a7548a4ab927024e1faaa92fbfed15c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dimas\AndroidStudioProjects\Recorder6\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b4a21573c312ca1cda23326b9bc13b11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7f439dcdbde400bff6fbe557d8930522\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a83e99ccfa8a33f7b8b51acb3d1a64c9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b3213746e5210ff5f7515e2892f9ee86\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e72f0acbb0a6ede3ee698ce8e94910a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd5746e13526ba2095c8167999ca5a28\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\980a2b4aedc3223bc9cf98207d486bca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f960e43da7f5f654dc01f441726970d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e9a7e31f8fb338c2384c39abe10284fc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\988987175fdde71d9e6cc4aac52e88ba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4c268b88febb904ce1376b380fb17006\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1cd63aa9bf1a92da6caac361b112cd22\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6996bad38573dfe19ee97f1e39eb546c\AndroidManifest.xml:26:13-58
